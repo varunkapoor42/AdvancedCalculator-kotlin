@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AdvancedCalculator" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryVariant">@color/almostBlack</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+    </style>
+
+    <style name="Theme.AdvancedCalculator" parent="Base.Theme.AdvancedCalculator" />
+</resources>
